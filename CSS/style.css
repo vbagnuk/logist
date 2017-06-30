@@ -458,5 +458,8 @@ background-color: #d62222;
     color: red;
     transition: 1s;
 }
-
+.text-links{
+    padding-top: 0px;
+    border-top: 0px;
+}
 /*footer end*/
